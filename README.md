@@ -1,5 +1,3 @@
----
-
 # PFXCheck, a PFX Certificate Analyzer
 
 **By Joshua M Clatney — Ethical Pentesting Enthusiast**
